@@ -41,7 +41,8 @@ For a full list of my publications, check my [ORCID profile](https://orcid.org/0
 ## 🌍 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/kab2421/)
 - [ORCID](https://orcid.org/0000-0003-0095-9302)
-- [Email](mailto:karthikvol@gmail.com)
+- ** Email**: [karthikedu77@gmail.com](mailto:karthikedu77@gmail.com)
+- **Alternative Email**: [karthikvol@gmail.com](mailto:karthikvol@gmail.com)
 
 ## 💼 Seeking Opportunities:
 I am actively seeking **internships** and **entry-level positions** in:
