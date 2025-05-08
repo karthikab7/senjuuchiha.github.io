@@ -1,8 +1,10 @@
 # Hi, I'm Karthik! 👋
 
-I have background in **Mechanical Engineering**, **Physics**, **Electronics**, and **Computational Astronomy**. I am looking into interdisciplinary positions as **Data Scientist**, **AI Specialist**, and **Optomechatronics Engineer** with hands-on experience in **AI-powered energy optimization systems**, **machine learning**, and **solar energy technologies**, I am actively seeking **internships** and **entry-level roles** in **Data Science**, **AI**, and **Optomechatronics** for **AI-driven solar projects**.
+I have a strong background in **Mechanical Engineering**, **Physics**, **Electronics**, and **Computational Astronomy**. With hands-on experience in **AI-powered energy optimization systems**, **machine learning**, and **solar energy technologies**, I am seeking **interdisciplinary positions** as a **Data Scientist**, **AI Specialist**, and **Optomechatronics Engineer**. 
 
-I combine my expertise in **engineering**, **data science**, and **AI** to tackle real-world challenges, with a particular focus on optimizing **solar energy harvesting** and improving **energy efficiency** using **AI** and **mechatronic systems**.
+Currently, I am actively pursuing **internships** and **entry-level roles** in **Data Science**, **AI**, and **Optomechatronics**, particularly for **AI-driven solar projects**. 
+
+By leveraging my expertise in **engineering**, **data science**, and **AI**, I aim to tackle real-world challenges with a specific focus on optimizing **solar energy harvesting** and enhancing **energy efficiency** through the application of **AI** and **mechatronic systems**.
 
 ## 🔧 Key Skills:
 - **Engineering**: Mechanical Design, Control Systems, Optomechatronics, Electronics
